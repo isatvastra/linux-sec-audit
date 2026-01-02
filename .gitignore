@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated reports
+ai_security_audit_*.json
+hardening_script_*.sh
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
