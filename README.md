@@ -20,6 +20,17 @@ This script performs a basic security assessment of a Linux system by checking:
 
 The goal is to combine traditional system inspection with lightweight AI reasoning to help explain risks and suggest remediation steps.
 
+
+Screenshots / Example output:
+
+![Audit results screenshot](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/file_000000001cac820abe63ff915f6ee8a5.png)
+
+_Figure: Example report output showing audited checks and findings._
+
+![Device photo or additional output](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/IMG_20260828_003055_609.jpg)
+
+_Figure: Additional image related to the project._
+
 ---
 
 ## Features
@@ -48,3 +59,4 @@ The goal is to combine traditional system inspection with lightweight AI reasoni
 ### Python dependency
 ```bash
 pip install requests
+```
