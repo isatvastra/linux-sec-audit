@@ -27,7 +27,7 @@ Screenshots / Example output:
 
 _Figure: Example report output showing audited checks and findings._
 
-![Device photo or additional output](https://github.com/isatvastra/linux-sec-audit/blob/main/file_000000001cac820abe63ff915f6ee8a5.png)
+![Device photo or additional output](https://github.com/isatvastra/linux-sec-audit/blob/main/IMG_20260828_003055_609.jpg)
 
 _Figure: Additional image related to the project._
 
