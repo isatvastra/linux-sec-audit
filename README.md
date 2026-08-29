@@ -27,7 +27,7 @@ Screenshots / Example output:
 
 _Figure: Example report output showing audited checks and findings._
 
-![Device photo or additional output](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/IMG_20260828_003055_609.jpg)
+![Device photo or additional output](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/linux_security_auditor_workflow_corrected-1.png)
 
 _Figure: Additional image related to the project._
 
@@ -54,6 +54,7 @@ The audit runs a series of Linux security checks, aggregates the findings,
 and optionally uses a local Ollama LLM for additional risk analysis and
 hardening recommendations.
 
+![Linux Security Auditor Workflow](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/linux_security_auditor_workflow_corrected-1.png)
 
 ## Requirements
 
