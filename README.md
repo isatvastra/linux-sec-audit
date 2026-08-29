@@ -48,6 +48,12 @@ _Figure: Additional image related to the project._
 - JSON or text-based reporting
 
 ---
+## How It Works
+
+The audit runs a series of Linux security checks, aggregates the findings,
+and optionally uses a local Ollama LLM for additional risk analysis and
+hardening recommendations.
+
 
 ## Requirements
 
