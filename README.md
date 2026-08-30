@@ -54,7 +54,7 @@ The audit runs a series of Linux security checks, aggregates the findings,
 and optionally uses a local Ollama LLM for additional risk analysis and
 hardening recommendations.
 
-![Linux Security Auditor Workflow](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/linux_security_auditor_workflow_corrected-1.png)
+![Linux Security Auditor Workflow](https://raw.githubusercontent.com/isatvastra/linux-sec-audit/main/linux-security-auditor-flowchart-2.png)
 
 ## Requirements
 
